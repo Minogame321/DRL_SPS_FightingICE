@@ -17,7 +17,6 @@ import gym_fightingice
 from gym_fightingice.envs.gym_ai import GymAI
 from gym_fightingice.envs.Machete import Machete
 
-from gym_fightingice.envs.NoAI import NoAI
 def game_thread(env):
     try:
         env.game_started = True
