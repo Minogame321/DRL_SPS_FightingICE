@@ -1,6 +1,6 @@
 # DRL_SPS_FightingICE
 
-まず以下のリンクからFightingICEをダウンロードしてください。
+まず以下のリンクからFightingICEをダウンロードしてください。\\
 https://www.ice.ci.ritsumei.ac.jp/~ftgaic/Downloadfiles/FTG4.50.zip
 
 ファイルを解答後、Dueling_DDQNHRA.pyが入っているフォルダを上記でダウンロードしたFTG4.50フォルダに移動させます。
