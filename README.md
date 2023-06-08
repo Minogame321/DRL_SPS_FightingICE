@@ -10,3 +10,6 @@ DRL_SPS_FightingICE内にymlファイルがあるので、Minicondaを使って�
 
 
 Dueling_DDQNHRA.pyコード内のモデルの保存場所を自環境のフォルダに設定してから実行してください。
+
+学習が完了すると以下のP1のエージェントができあがります。
+
