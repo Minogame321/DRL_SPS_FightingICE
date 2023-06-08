@@ -13,6 +13,6 @@ Dueling_DDQNHRA.pyコード内のモデルの保存場所を自環境のフォ�
 
 学習が完了すると以下のP1のエージェントができあがります。
 
-![fightingICE](https://github.com/Minogame321/DRL_SPS_FightingICE/assets/128656868/d25dac2e-0661-4ea3-bc6c-3252cb56bdc9)
 
-[![' ']('https://user-images.githubusercontent.com/128656868/244419377-d25dac2e-0661-4ea3-bc6c-3252cb56bdc9.png')]('https://youtu.be/0fH4kWfbQaY')
+https://github.com/Minogame321/DRL_SPS_FightingICE/assets/128656868/1bae3943-20a3-4d7f-be98-a880b4fb546a
+
