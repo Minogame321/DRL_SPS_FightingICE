@@ -1,3 +1,4 @@
+Dueling DDQNを用いた格闘ゲームAIです。
 # DRL_SPS_FightingICE
 
 まず以下のリンクからFightingICEをダウンロードしてください。
