@@ -1,3 +1,5 @@
+スプリングセミナー2023：深層強化学習(https://deeplearning.jp/drl-course-2023sp/)最終課題で提出したものです。(優秀賞受賞)
+
 Dueling DDQNを用いた格闘ゲームAIです。
 # DRL_SPS_FightingICE
 
