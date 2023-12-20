@@ -2,7 +2,7 @@
 
 Dueling DDQNを用いた格闘ゲームAIです。
 
-(http://www.ice.ci.ritsumei.ac.jp/~ftgaic/Downloadfiles/mulit-head_open_source.zip)のコードを参考にアルゴリズムをDueling DDQNにしています。
+(http://www.ice.ci.ritsumei.ac.jp/~ftgaic/Downloadfiles/mulit-head_open_source.zip) のコードを参考にアルゴリズムをDueling DDQNにしています。
 
 # DRL_SPS_FightingICE
 
